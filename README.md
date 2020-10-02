@@ -1,5 +1,6 @@
 # blender-projects
 A showcase for some of my blender projects.
 
-1. Bowling Ball and pins
+1. <a href="https://github.com/abhishek-choudharys/blender-projects/tree/main/BowlingBall">Bowling Ball and pins</a>
+
 ![image](https://github.com/abhishek-choudharys/blender-projects/blob/main/BowlingBall/bowlingBallAndPins.png?raw=true)
