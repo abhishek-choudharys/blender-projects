@@ -20,6 +20,6 @@ Shown below are some graphics made using Blender 2.8 and above.
 
 ![image](https://github.com/abhishek-choudharys/blender-projects/blob/experimental/Donut/donut_render.png)
 
-- <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/experimental/CoffeeCup">
+- <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/experimental/CoffeeCup">Coffee Cup </a>
   
 ![image][https://github.com/abhishek-choudharys/blender-projects/blob/experimental/CoffeeCup/coffeecup_condensed.png]
