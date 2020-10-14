@@ -21,7 +21,7 @@ Shown below are some graphics made using Blender 2.8 and above.
 
 - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/Sci-fi%20rings">Sci-fi Rings</a>
 
-![image](https://github.com/abhishek-choudharys/blender-projects/blob/main/Sci-fi%20rings/rings.png)
+<img alt="image" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Sci-fi%20rings/rings.png" width="600"/>
 
 - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/Neon">Neon Sign</a>
 
