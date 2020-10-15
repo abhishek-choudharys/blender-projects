@@ -23,6 +23,10 @@ Shown below are some graphics made using Blender 2.8 and above.
 
 <img alt="image" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Sci-fi%20rings/rings.png" width="600"/>
 
+- <a href="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus">Plexus</a>
+
+![](https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif)
+
 - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/Neon">Neon Sign</a>
 
 ![imgae](https://github.com/abhishek-choudharys/blender-projects/blob/main/Neon/neon1.png)
