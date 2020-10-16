@@ -19,6 +19,10 @@ Shown below are some graphics made using Blender 2.8 and above.
 
 ![](https://github.com/abhishek-choudharys/blender-projects/blob/main/MagicForest/magicForest.gif)
 
+- <a href="https://github.com/abhishek-choudharys/blender-projects/blob/main/city">Sci-fi City</a>
+
+![](https://github.com/abhishek-choudharys/blender-projects/blob/main/city/scificity.gif)
+
 - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/Sci-fi%20rings">Sci-fi Rings</a>
 
 <img alt="image" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Sci-fi%20rings/rings.png" width="600"/>
