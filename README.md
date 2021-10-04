@@ -13,8 +13,8 @@ Blender is extensively documented on its website, with the rest of the support p
 
 Note : You do not need to know any coding if you want to go the basic 3d modeling route, however, advanced 3d modelling requires you to write code.
 
-Shown below are some graphics made using Blender 2.8 and above.
-Now also using blender 2.9.
+*Shown below are some graphics made using Blender 2.8 and above.
+Now also using blender 2.9.*
 
 - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/MagicForest">Magic Forest</a>
 
