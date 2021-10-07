@@ -25,7 +25,7 @@ Now also using blender 2.9.*
 
 ![](https://github.com/abhishek-choudharys/blender-projects/blob/main/city/scificity.gif)
 
-- <a href="https://github.com/abhishek-choudharys/blender-projects/blob/main/Demons/demons.png">
+- <a href="https://github.com/abhishek-choudharys/blender-projects/blob/main/Demons/demons.png">Demons</a>
   
 ![](https://github.com/abhishek-choudharys/blender-projects/blob/main/Demons/demons.png)
 
