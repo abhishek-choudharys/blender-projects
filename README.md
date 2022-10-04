@@ -53,4 +53,4 @@ Now also using blender 2.9.*
 ![image](https://github.com/abhishek-choudharys/blender-projects/blob/experimental/Donut/donut_render.png)
 
 View the website at https://abhishek-choudharys.github.io/blender-projects/.
-Feel free to reach out for feedback, or collaboration.
+Feel free to reach out for feedback, or collaboration!
