@@ -55,5 +55,9 @@ UPDATE: Now also using blender 2.9.*
 
 ![image](https://github.com/abhishek-choudharys/blender-projects/blob/experimental/Donut/donut_render.png)
 
+- <a href="https://github.com/abhishek-choudharys/blender-projects/tree/main/Explore">Explore the unexplored</a>
+
+![image](https://github.com/viveeeeeek/blender-projects/blob/viveeeeeek/Explore/Exploring_the_unexplored.jpg)
+
 View the website at https://abhishek-choudharys.github.io/blender-projects/.
 Feel free to reach out for feedback, or collaboration!
