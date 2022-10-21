@@ -19,25 +19,25 @@ For more info visit the official blender website: https://www.blender.org/
 *Shown below are some graphics made using Blender 2.8 and above.
 UPDATE: Now also using blender 2.9.*
 
-- <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/MagicForest">Magic Forest</a>
+#### - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/MagicForest">Magic Forest</a>
 
-#### ![](https://github.com/abhishek-choudharys/blender-projects/blob/main/MagicForest/magicForest.gif)
+![](https://github.com/abhishek-choudharys/blender-projects/blob/main/MagicForest/magicForest.gif)
 
-- <a href="https://github.com/abhishek-choudharys/blender-projects/blob/main/city">Sci-fi City</a>
+#### - <a href="https://github.com/abhishek-choudharys/blender-projects/blob/main/city">Sci-fi City</a>
 
-#### ![](https://github.com/abhishek-choudharys/blender-projects/blob/main/city/scificity.gif)
+![](https://github.com/abhishek-choudharys/blender-projects/blob/main/city/scificity.gif)
 
-- <a href="https://github.com/abhishek-choudharys/blender-projects/blob/main/Demons/demons.png">Demons</a>
+#### - <a href="https://github.com/abhishek-choudharys/blender-projects/blob/main/Demons/demons.png">Demons</a>
   
-#### ![](https://github.com/abhishek-choudharys/blender-projects/blob/main/Demons/demons.png)
+![](https://github.com/abhishek-choudharys/blender-projects/blob/main/Demons/demons.png)
 
-- <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/Sci-fi%20rings">Sci-fi Rings</a>
+#### - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/Sci-fi%20rings">Sci-fi Rings</a>
 
 <img alt="image" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Sci-fi%20rings/rings.png" width="600"/>
 
-- <a href="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus">Plexus</a>
+#### - <a href="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus">Plexus</a>
 
-#### ![](https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif)
+![](https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif)
 
 - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/Neon">Neon Sign</a>
 
