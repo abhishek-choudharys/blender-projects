@@ -39,19 +39,19 @@ UPDATE: Now also using blender 2.9.*
 
 ![](https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif)
 
-- <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/Neon">Neon Sign</a>
+#### - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/Neon">Neon Sign</a>
 
 ![imgae](https://github.com/abhishek-choudharys/blender-projects/blob/main/Neon/neon1.png)
 
-- <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/experimental/CoffeeCup">Coffee Cup </a>
+#### - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/experimental/CoffeeCup">Coffee Cup </a>
   
 ![image](https://github.com/abhishek-choudharys/blender-projects/blob/experimental/CoffeeCup/coffeecup_condensed.png)
 
-- <a href="https://github.com/abhishek-choudharys/blender-projects/tree/main/BowlingBall">Bowling Ball and pins</a>
+#### - <a href="https://github.com/abhishek-choudharys/blender-projects/tree/main/BowlingBall">Bowling Ball and pins</a>
 
 ![image](https://github.com/abhishek-choudharys/blender-projects/blob/main/BowlingBall/bowlingBallAndPins.png?raw=true)
 
-- <a href="https://github.com/abhishek-choudharys/blender-projects/tree/main/Donut">Donut</a>
+#### - <a href="https://github.com/abhishek-choudharys/blender-projects/tree/main/Donut">Donut</a>
 
 ![image](https://github.com/abhishek-choudharys/blender-projects/blob/experimental/Donut/donut_render.png)
 
