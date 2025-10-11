@@ -12,10 +12,10 @@ Blender is a free and open-source 3D computer graphics software toolset used for
 
 For more info, visit the official Blender website: https://www.blender.org/
 
-**Note:** You do not need to know any coding if you want to go the primary 3d modeling route, however, advanced 3d modeling requires you to write code. 
+**Note:** You do not need to know any coding if you want to go the primary 3d modeling route; however, advanced 3d modeling requires you to write code. 
 
 *Shown below are some graphics made using Blender 2.8 and above.
-UPDATE: Now also using blender 2.9.*
+UPDATE: Now also using Blender 2.9.*
 
 #### - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/MagicForest">Magic Forest</a>
 
