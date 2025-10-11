@@ -2,13 +2,13 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.blender-projects)
 
-A showcase for some of my blender projects.
+A showcase for some of my Blender projects.
 
 View the website at https://abhishek-choudharys.github.io/blender-projects/.
 
-### What is Blender???
+### What is Blender?
 
-Blender is a free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, virtual reality and computer games. Blender's features include 3D modeling, UV unwrapping, texturing, raster graphics editing, rigging and skinning, fluid and smoke simulation, particle simulation, soft body simulation, sculpting, animating, match moving, rendering, motion graphics, video editing, and compositing.
+Blender is a free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, virtual reality, and computer games. Blender's features include 3D modeling, UV unwrapping, texturing, raster graphics editing, rigging and skinning, fluid and smoke simulation, particle simulation, soft body simulation, sculpting, animating, match moving, rendering, motion graphics, video editing, and compositing. 
 
 For more info visit the official blender website: https://www.blender.org/
 
@@ -16,7 +16,6 @@ For more info visit the official blender website: https://www.blender.org/
 
 *Shown below are some graphics made using Blender 2.8 and above.
 UPDATE: Now also using blender 2.9.*
-
 
 #### - <a href = "https://github.com/abhishek-choudharys/blender-projects/blob/main/MagicForest">Magic Forest</a>
 
